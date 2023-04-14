@@ -12,7 +12,7 @@ namespace ConsoleApp8
         private string _email;
         private string _pasword;
         private string _surname;
-        private int _id;
+       
         static int Count { get; set; } = 0;
         public int Id { get; init; }
         public string Name 
